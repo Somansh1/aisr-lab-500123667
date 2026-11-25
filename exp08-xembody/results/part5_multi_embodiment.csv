@@ -1,0 +1,4 @@
+unseen_robot,single_agnostic,multi_agnostic,single_proprio,multi_proprio
+kuka_iiwa,84%,92%,16%,46%
+franka_panda,86%,92%,18%,52%
+xarm6,82%,88%,12%,38%

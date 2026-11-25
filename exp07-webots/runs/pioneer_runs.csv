@@ -1,0 +1,5 @@
+setting,path_m,stuck_pct,coverage_pct
+default_bubble_0.35,52.61,6.6,21.5
+bubble_0.10,35.74,32.7,21.1
+bubble_0.60,59.33,0.1,20.7
+exercise2_loop_break,47.12,4.5,30.1
